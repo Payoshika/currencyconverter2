@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <nav className="navbar d-flex justify-content-center border-bottom">
+      <nav className="navbar d-flex justify-content-center border-bottom mb-4">
         <h2>Currency Converter</h2>
       </nav>
       <Switch>
