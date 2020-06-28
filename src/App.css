@@ -19,6 +19,9 @@ body a:hover{
   height: 15rem;
 }
 
+.img-container{
+  width: 150px;
+}
 /*currency selection styles */
 .base-currency button:hover{
   background-color: #e0dede;
